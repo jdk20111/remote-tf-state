@@ -1,0 +1,13 @@
+*.terraform*
+.terraform
+*.tfstate
+*.tfstate.*
+*.crt
+*.key
+*.pem
+*.csr
+*.cert
+*.cnf
+*.req
+*.config
+*.pfx
